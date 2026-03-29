@@ -19,7 +19,3 @@ This repository contains a series of SQL exercises designed to strengthen fundam
 - Enables dynamic transformations of data in queries.
 - Can be combined with aggregate functions and grouping for advanced analysis.
 
-## How to Use
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/sql-practice-exercises.git
